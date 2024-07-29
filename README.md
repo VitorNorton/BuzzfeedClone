@@ -6,6 +6,7 @@ Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Develope
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
     <img src="ttps://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
     <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge" >
 </p>
