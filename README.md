@@ -8,10 +8,14 @@ Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Develope
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/html-%23DD0031.svg?style=for-the-badge&logo=html&logoColor=blue">
+  <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Css-%23DD0031.svg?style=for-the-badge&logo=Css&logoColor=blue">
+  <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
 </p>
 
 
