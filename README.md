@@ -1,20 +1,16 @@
-# 📁 Clone BuzzFeed <img src= "./src/assets/imgs/Buzz" height=24> com Angular <img src= "./src/assets/imgs/Angular" height=24>
+# 📁 Clone BuzzFeed <img src= "./src/assets/imgs/Buzz.png" height=24> com Angular <img src= "./src/assets/imgs/Angular.png" height=24>
 
 Esse projeto foi desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered by iFood da DIO(Digital Innovation One) com o Framework Angular. Consiste na criação de um Quizz com utilização dos conceitos aprendidos durante o bootcamp.
 
 # 🚀 Tecnologias
-
 <p align="center">
+
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge">
-</p>
 
-<p align="center">
+  <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge">
+
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge">
 </p>
 
