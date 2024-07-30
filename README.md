@@ -2,11 +2,8 @@
 
 This project was developed during the Potência Tech Angular Developer bootcamp - Powered by iFood from DIO (Digital Innovation One) with the Angular Framework. It consists of creating a Quiz using the concepts learned during the bootcamp.
 
-<<<<<<< HEAD
 # 🛠 Technologies Used
-=======
-## 🛠 Technologies Used
->>>>>>> d9338457f4a8c216f092592f15642d6658f46392
+
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
     <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue">
