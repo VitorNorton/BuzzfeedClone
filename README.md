@@ -1,4 +1,4 @@
-# Clone BuzzFeed <img src= "./src/assets/imgs/Buzz.png" height=35> with Angular <img src= "./src/assets/imgs/Angular.png" height=35>
+# Clone BuzzFeed <img align="center" src= "./src/assets/imgs/Buzz.png" height=40> with Angular <img align="center" src= "./src/assets/imgs/Angular.png" 
 
 This project was developed during the Potência Tech Angular Developer bootcamp - Powered by iFood from DIO (Digital Innovation One) with the Angular Framework. It consists of creating a Quiz using the concepts learned during the bootcamp.
 
