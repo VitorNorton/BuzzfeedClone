@@ -2,6 +2,10 @@
 
 This project was developed during the Potência Tech Angular Developer bootcamp - Powered by iFood from DIO (Digital Innovation One) with the Angular Framework. It consists of creating a Quiz using the concepts learned during the bootcamp.
 
+Access the website and take your test through the link: [Click here](https://vitornorton.github.io/BuzzfeedClone/Buzzfeedclone/)
+
+
+
 # 🛠 Technologies Used
 
 <p align="center">
@@ -34,4 +38,6 @@ This project was developed during the Potência Tech Angular Developer bootcamp 
 ![localhost_4200_ (3)](https://user-images.githubusercontent.com/69852246/233815494-f5ceecc7-47ee-46f3-9974-6d4676816625.png)
  
 
+# :link: Useful links
 
+* This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
