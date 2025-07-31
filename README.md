@@ -13,6 +13,7 @@ Access the website and take your test through the link: :link:[Click here](https
     <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=blue">
     <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
     <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=264CE4">
+    <img src="https://img.shields.io/badge/angular-000?style=for-the-badge&logo=angular&logoColor=DD0031">
 </p>
 
 
