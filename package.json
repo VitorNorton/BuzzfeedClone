@@ -34,6 +34,10 @@
     "karma-coverage": "~2.2.0",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "typescript": "~4.7.2"
+    "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "tar": ">=7.5.3",
+    "tmp": ">=0.2.3"
   }
 }
